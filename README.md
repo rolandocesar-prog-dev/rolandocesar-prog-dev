@@ -10,6 +10,10 @@ y movilidad, y aplico IA (RAG, agentes y visión) a problemas concretos.
 [CV en PDF](https://rolandocesar-prog-dev.github.io/cv-web/CV_Rolando_Vasquez_Tavera.pdf) ·
 [rolando.sha256@gmail.com](mailto:rolando.sha256@gmail.com)
 
+**English:** [summary below](#in-english) ·
+[CV in English](https://rolandocesar-prog-dev.github.io/cv-web/en/) ·
+[PDF](https://rolandocesar-prog-dev.github.io/cv-web/CV_Rolando_Vasquez_Tavera_EN.pdf)
+
 ## Proyectos
 
 Cada repositorio tiene requisitos y diseño escritos, pruebas automatizadas, CI y una demo.
@@ -34,3 +38,31 @@ Cada repositorio tiene requisitos y diseño escritos, pruebas automatizadas, CI 
 
 Las apps publicadas en las tiendas y mi experiencia están en el
 [CV web](https://rolandocesar-prog-dev.github.io/cv-web/).
+
+## In English
+
+**Full stack and mobile developer · Applied AI** — Tarija, Bolivia · open to remote work
+
+I build apps with Flutter, web interfaces with React and backends with TypeScript (NestJS) and
+Python, with automated tests and CI from the first commit. I published 4 apps on Google Play and
+the App Store for delivery and ride-hailing companies, and I apply AI (RAG, agents and vision) to
+concrete problems.
+
+Every project above has written requirements and design, automated tests, CI and a demo. Each
+README starts with a short summary in English; the code and the documentation are in Spanish.
+
+- **RAG assistant for documentation** — answers from the Kubernetes docs, citing every source.
+- **Inventory API** — REST API whose stock never goes negative under concurrent requests.
+- **Inventory web dashboard** — React app that never duplicates a stock movement.
+- **Appointment booking** — Flutter and Firebase booking app with no double bookings.
+- **AI invoice scanner** — reads supplier invoices with a local vision model, with human review.
+- **Inventory agent with MCP** — conversational agent that never writes without human approval.
+- **E2E suite with Playwright** — 139 tests on four browsers and 0 flaky tests in 30 CI runs.
+
+**Skills:** Flutter, Dart, TypeScript, React, NestJS, Python, PostgreSQL, Firebase, Docker, RAG,
+MCP agents, Playwright and GitHub Actions. **Languages:** Spanish (native), English (B1,
+technical).
+
+[CV in English](https://rolandocesar-prog-dev.github.io/cv-web/en/) ·
+[PDF](https://rolandocesar-prog-dev.github.io/cv-web/CV_Rolando_Vasquez_Tavera_EN.pdf) ·
+[rolando.sha256@gmail.com](mailto:rolando.sha256@gmail.com)
