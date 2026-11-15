@@ -8,6 +8,7 @@ y movilidad, y aplico IA (RAG, agentes y visión) a problemas concretos.
 
 [CV web](https://rolandocesar-prog-dev.github.io/cv-web/) ·
 [CV en PDF](https://rolandocesar-prog-dev.github.io/cv-web/CV_Rolando_Vasquez_Tavera.pdf) ·
+[LinkedIn](https://www.linkedin.com/in/rolando-cesar-vasquez-tavera-b62235222) ·
 [rolando.sha256@gmail.com](mailto:rolando.sha256@gmail.com)
 
 **English:** [summary below](#in-english) ·
@@ -65,4 +66,5 @@ technical).
 
 [CV in English](https://rolandocesar-prog-dev.github.io/cv-web/en/) ·
 [PDF](https://rolandocesar-prog-dev.github.io/cv-web/CV_Rolando_Vasquez_Tavera_EN.pdf) ·
+[LinkedIn](https://www.linkedin.com/in/rolando-cesar-vasquez-tavera-b62235222) ·
 [rolando.sha256@gmail.com](mailto:rolando.sha256@gmail.com)
